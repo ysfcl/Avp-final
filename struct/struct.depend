@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735157686 source:c:\users\cilyu\desktop\projeler\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
